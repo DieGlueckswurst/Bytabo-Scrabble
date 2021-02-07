@@ -9,7 +9,7 @@ class HomeScreen extends StatefulWidget {
 }
 
 class _ScrabbleScoreHomeScreenState extends State<HomeScreen> {
-  final String title = "BYTABO-Scrabble";
+  final String title = "BYTABO Scrabble";
   var score = 0;
   var shouldShowError = false;
 
